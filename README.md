@@ -1,0 +1,5 @@
+- Merhaba, ben İsmail.
+- Şu anlık yazılımla haşır neşir bir öğrenciyim ve kendi imkanlarımla evde yazılım öğrenmeye çalışıyorum.
+- Şu anlık hedefim kendini yetiştirmiş bir .NET alanında yazılım geliştiricisi olmak.
+- Her gün bu hedefim için çok çaba sarf ediyorum ve bir çok proje geliştiriyorum.
+- YouTube'de özellikle Murat Yücedağ hocamın dersleri gerçekten bana bu amacım için çok yardımcı oluyor, eğer burayı okuyorsa Murat hocama teşekkürlerimi sunarım :)
