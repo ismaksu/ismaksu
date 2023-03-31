@@ -11,3 +11,5 @@ For English Speakers :
 - For now, my goal is being a self-taught .NET developer.
 - I am really working hard for my goals and developing some projects.
 - On YouTube, especially Murat Yücedağ's online lessons are really helping me for reaching that goal, if he is reading this i represent my very thanks to him :)
+
+Youtube: https://www.youtube.com/@ismaksu
