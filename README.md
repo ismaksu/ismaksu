@@ -13,3 +13,6 @@ For English Speakers :
 - On YouTube, especially Murat Yücedağ's online lessons are really helping me for reaching that goal, if he is reading this i represent my very thanks to him :)
 
 Youtube: https://www.youtube.com/@ismaksu
+
+--------------
+print(chr(sum(range(ord(min(str(not())))))))
