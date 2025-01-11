@@ -1,4 +1,4 @@
-- Merhaba, ben İsmail.
+- Merhaba, ben Evren (nüfusta İsmail).
 - Şu anlık yazılımla haşır neşir bir öğrenciyim ve kendi imkanlarımla evde yazılım öğrenmeye çalışıyorum.
 - Şu anlık hedefim kendini yetiştirmiş bir .NET alanında yazılım geliştiricisi olmak.
 - Her gün bu hedefim için çok çaba sarf ediyorum ve bazı projeler geliştiriyorum.
@@ -6,7 +6,7 @@
 
 For English Speakers :
 
-- Hi, im Ismail.
+- Hi, im Evren (İsmail in government ID).
 - Im am a student who interested in programming and studying programming on my own.
 - For now, my goal is being a self-taught .NET developer.
 - I am really working hard for my goals and developing some projects.
